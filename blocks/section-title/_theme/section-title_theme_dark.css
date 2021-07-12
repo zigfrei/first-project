@@ -1,4 +1,6 @@
 .section-title_theme_dark{
   margin: 0 auto 20px auto;
   color: #fff;
+  position: relative;
+  z-index: 5;
 }

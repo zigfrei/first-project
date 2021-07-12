@@ -1,1 +1,12 @@
+@keyframes shape-rotation{
+  from {
+    transform: rotate(0deg);
+    }
+  to {
+    transform: rotate(360deg);
+    }
+}
 
+.rotation{
+  animation: shape-rotation linear infinite 20s;
+}
